@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/light.qss</file>
+        <file>qss/dark.qss</file>
+        <file>qss/style.qss</file>
+        <file>svg/toggle-off.svg</file>
+        <file>svg/toggle-on.svg</file>
+    </qresource>
+</RCC>
